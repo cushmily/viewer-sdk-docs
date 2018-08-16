@@ -1,4 +1,4 @@
-# 支持设备
+# Supported Devices
 
 ?> This section lists handheld devices supported by Viewer.。
 

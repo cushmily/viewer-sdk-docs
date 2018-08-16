@@ -1,5 +1,3 @@
-
-
 # Development environment and requirements
 
 ?> This section will explain the development environments and software requirements for using ViewerSDK.
